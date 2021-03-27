@@ -6,4 +6,5 @@ H2 Database is enabled by default - remove the commented-out section of applicat
 BCRYPT Hashing of Passwords - so remember your passwords please. ;-)
 
 admin@adventurealley.com - Password: admin
+
 guest@adventurealley.com - Password: guest
